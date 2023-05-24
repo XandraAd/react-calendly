@@ -1,0 +1,100 @@
+.cal1 {
+	color: seablue;
+	
+}
+
+.cal2 {
+    color: black;
+}
+
+.icon-con {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	}
+
+.cal3 {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.cal4 {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.icon-con {
+    gap: 10rem;
+}
+
+
+.card-body {
+    line-height: 3rem;
+}
+
+
+.footer-container {
+    gap:4.5rem
+}
+
+.list-body {
+    
+    border: none;
+}
+
+
+.indi {
+	background-color: green;
+	width: 95%;
+	height: 55%;
+	border: 1px solid green;
+}
+
+.team1 {
+    gap: 2rem;
+     display: flex;
+	flex-direction: row;
+}
+
+.stylep {
+    margin:3rem;
+   text-transform: uppercase;
+    text-align: center; 
+    color: blue;
+}
+
+.ent1 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    margin: -12px;
+}
+
+.ent2 {
+    width: 100%;
+    margin: 5rem;
+    padding-block: 2%;
+	justify-content: center;
+	text-align: center;
+	background-color: black;
+	color: white;
+
+}
+
+#ent3 {
+	justify-content: center;
+	text-align: center;
+}
